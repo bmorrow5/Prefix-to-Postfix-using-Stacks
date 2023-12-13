@@ -1,4 +1,4 @@
-This program is designed to convert a prefix to postfix expresssion using a stack data structure.
+This program is designed to convert a prefix to postfix expresssion using a stack data structure in Java.
 It can be run from the command line
 
 
