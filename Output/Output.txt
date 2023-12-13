@@ -1,0 +1,20 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+ABC+/
+Invalid prefix!
+Invalid prefix!
+ABC+$CBA-+*
+AB0+/CBA+-/
+ABC^$CBA-+*
+ABCDE*FGHI$^JK//LMN$/+-+-++
+ABCD$^^
+ABCDEFG^^HI*/*/J--+
+AB^C*D-
+ABCDEF^$^$^
+ABCDEFGHIJKLMNOP***************
+ABCDEFGHIJKLMNOPQRST^$^V//////***********WXYZ-+-+
+ABCAB-+-+
+Invalid prefix!
